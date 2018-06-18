@@ -32,3 +32,6 @@ composer.phar
 
 ## PiF
 password
+
+## Portfolio
+application/config/portfolio_config.php
